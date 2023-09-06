@@ -47,16 +47,7 @@
   <img src="https://img.shields.io/badge/-GCP-242121?style=flat-square&logo=googlecloud"/>
   <img src="https://img.shields.io/badge/-AWS-252d39?style=flat-square&logo=amazonaws"/>
 </p>
- <p align="center">
-   Email: keenknight.110@gmail.com
- </p>
 <p align="center">
    skype: live:.cid.b3102bb164b1b097
 </p>
-<p align="center">
-   Telegram: https://t.me/keenknight110
-</p>
-<p align="center">
-    Portfolio Site : https://keenknight110.com
-</p> 
 <br>
