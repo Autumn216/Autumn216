@@ -47,10 +47,6 @@
   <img src="https://img.shields.io/badge/-GCP-242121?style=flat-square&logo=googlecloud"/>
   <img src="https://img.shields.io/badge/-AWS-252d39?style=flat-square&logo=amazonaws"/>
 </p>
-
-<p align="center">
- Contact Me
-</p>
  <p align="center">
    Email: keenknight.110@gmail.com
  </p>
